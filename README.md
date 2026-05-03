@@ -121,3 +121,4 @@ This is Project 5 in a series building toward production-grade CI/CD systems:
 - **Project 3** — Language-agnostic CI/CD with Python Flask
 - **Project 4** — Containerization with Docker, image tagging with Git SHA
 - **Project 5** — Multi-container systems, Docker networking, Compose orchestration ← this project
+- **Project 6** — Staging and production environments, approval gates, environment separation
