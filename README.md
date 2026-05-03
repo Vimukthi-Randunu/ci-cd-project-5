@@ -34,8 +34,8 @@ Most containerization tutorials stop at a single container. Real production syst
 │   │        Docker Network               │   │
 │   │                                     │   │
 │   │   ┌──────────┐    ┌─────────────┐   │   │
-│   │   │  Flask   │───▶│  PostgreSQL  │  │   │
-│   │   │ :5000    │    │   :5432      │  │   │
+│   │   │  Flask   │───▶│  PostgreSQL │   │   │
+│   │   │ :5000    │    │   :5432     │   │   │
 │   │   └──────────┘    └─────────────┘   │   │
 │   │        │                  │         │   │
 │   │        │          ┌───────────────┐ │   │
